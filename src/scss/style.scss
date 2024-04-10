@@ -36,6 +36,11 @@
     padding: 15px;
 }
 
+#menu li a {
+    text-decoration: none;
+    color: #a0a1a5;
+}
+
 #menu li:hover {
     background-color:#4a4b54; /* New background color on hover */
   }

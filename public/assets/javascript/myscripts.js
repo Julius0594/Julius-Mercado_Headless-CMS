@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 // =======================================================
-
+// FETCH METHOD / FOREACH- TODAY'S TRENDS
 document.addEventListener("DOMContentLoaded", function() {
   // Fetch JSON data
   fetch('../data/content.json')
